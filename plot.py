@@ -13,5 +13,7 @@ pdb_file = fetch_pdb(pdb_id)
 
 plt.figure()
 plot(pdb_file)
-st.markdown("Resultado :world:")
+st.markdown("Resultado :grinning:")
+st.markdown("Resultado :smiley:")
+st.markdown("Resultado :smile:")
 st.pyplot()
